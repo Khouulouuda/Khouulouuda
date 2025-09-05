@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khouloud ELAZIZI</h1>
-<h3 align="center">A passionate computer sciences and AI engineering student</h3>
+<h3 align="center">A passionate computer science and AI engineering student</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/25043962/file/original-ca87df75747127e38c2049c72e374e5b.gif">
  
 - 👯 I’m looking to collaborate on **Web Development**
